@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e5589f80.css",
+    "main.js": "./static/js/main.c56143f2.js",
+    "static/media/ICMR.png": "./static/media/ICMR.1e4bad88d925179c7967.png",
+    "static/media/cafe_on_hills.png": "./static/media/cafe_on_hills.7bd53be5c32a77739dac.png",
+    "static/media/villa.png": "./static/media/villa.5be0158af56351526203.png",
+    "static/media/4.jpg": "./static/media/4.db56129421ae694eefc8.jpg",
+    "static/media/factories.jpg": "./static/media/factories.8abb5a11cf649026d3bc.jpg",
+    "static/media/6.jpg": "./static/media/6.2b9061760363919977cd.jpg",
+    "static/media/hotel.jpg": "./static/media/hotel.79c1acfac2b6de6c9f03.jpg",
+    "static/media/cafe.jpg": "./static/media/cafe.8d53aa7e6bfcd34dcaa9.jpg",
+    "static/media/3.jpg": "./static/media/3.6baf9db81900067f7eb1.jpg",
+    "static/media/1.jpg": "./static/media/1.ec05757b1e7af91a3602.jpg",
+    "static/media/commercial.jpg": "./static/media/commercial.2051649f0f02fd3f5c77.jpg",
+    "static/media/concrete_residence.jpg": "./static/media/concrete_residence.dfa6ec169ee8fbc8976e.jpg",
+    "static/media/residence.jpg": "./static/media/residence.0e31638f3a48a14e559e.jpg",
+    "static/media/2.jpg": "./static/media/2.6e71a532fcf3eb633a95.jpg",
+    "static/media/consultantArchitect.jpg": "./static/media/consultantArchitect.d8fecf011415d4e78217.jpg",
+    "static/media/House.jpg": "./static/media/House.ed67982730595529a336.jpg",
+    "static/media/5.jpg": "./static/media/5.14da11378aac9d3ec6c4.jpg",
+    "index.html": "./index.html",
+    "main.e5589f80.css.map": "./static/css/main.e5589f80.css.map",
+    "main.c56143f2.js.map": "./static/js/main.c56143f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5589f80.css",
+    "static/js/main.c56143f2.js"
+  ]
+}
