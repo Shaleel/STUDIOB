@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.e5589f80.css",
-    "main.js": "./static/js/main.c56143f2.js",
+    "main.js": "./static/js/main.f357d3d3.js",
     "static/media/ICMR.png": "./static/media/ICMR.1e4bad88d925179c7967.png",
     "static/media/cafe_on_hills.png": "./static/media/cafe_on_hills.7bd53be5c32a77739dac.png",
     "static/media/villa.png": "./static/media/villa.5be0158af56351526203.png",
@@ -21,10 +21,10 @@
     "static/media/5.jpg": "./static/media/5.14da11378aac9d3ec6c4.jpg",
     "index.html": "./index.html",
     "main.e5589f80.css.map": "./static/css/main.e5589f80.css.map",
-    "main.c56143f2.js.map": "./static/js/main.c56143f2.js.map"
+    "main.f357d3d3.js.map": "./static/js/main.f357d3d3.js.map"
   },
   "entrypoints": [
     "static/css/main.e5589f80.css",
-    "static/js/main.c56143f2.js"
+    "static/js/main.f357d3d3.js"
   ]
 }
